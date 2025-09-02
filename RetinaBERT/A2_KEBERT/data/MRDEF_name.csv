@@ -1,0 +1,197 @@
+CUI,Name,Definition
+C0035298,Retina,"The ten-layered nervous tissue membrane of the eye. It is continuous with the OPTIC NERVE and receives images of external objects and transmits visual impulses to the brain. Its outer surface is in contact with the CHOROID and the inner surface with the VITREOUS BODY. The outer-most layer is pigmented, whereas the inner nine layers are transparent."
+C0035298,Retina,A light-sensitive membrane that lines the back wall of the eyeball. The retina is continuous with the optic nerve and this way transmits optical images to the brain.
+C0035298,Retina,"Of, relating to, or involving the retina."
+C0450295,Macula Lutea,"A yellowish, highly pigmented, oval shaped area slightly lateral to the center of the retina of the eye which contains the fovea centralis and is mostly comprised of retinal cones, for high-acuity vision, and which if damaged will result in the partial/complete loss of central vision."
+C0450295,Macula Lutea,"An oval area in the retina, 3 to 5 mm in diameter, usually located temporal to the posterior pole of the eye and slightly below the level of the optic disk. It is characterized by the presence of a yellow pigment diffusely permeating the inner layers, contains the fovea centralis in its center, and provides the best phototropic visual acuity. It is devoid of retinal blood vessels, except in its periphery, and receives nourishment from the choriocapillaris of the choroid. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+C0029127,Optic Disk,The portion of the optic nerve seen in the fundus with the ophthalmoscope. It is formed by the meeting of all the retinal ganglion cell axons as they enter the optic nerve.
+C0029127,Optic Disk,A portion of the retina at which the axons of the ganglion cells exit the eyeball to form the optic nerve. No light-sensitive photoreceptors are contained within this portion of the retina.
+C0035327,Structure of central vein of the retina,A vein that drains the retina of the eye.
+C0035327,Structure of central vein of the retina,Central retinal vein and its tributaries. It runs a short course within the optic nerve and then leaves and empties into the superior ophthalmic vein or cavernous sinus.
+C0008520,Choroid,"The thin, highly vascular membrane covering most of the posterior of the eye between the RETINA and SCLERA."
+C0008520,Choroid,A blood vessel-containing membrane of the eye that lies between the retina and the sclera.
+C0011884,Diabetic Retinopathy,"Disease of the RETINA as a complication of DIABETES MELLITUS. It is characterized by the progressive microvascular complications, such as ANEURYSM, interretinal EDEMA, and intraocular PATHOLOGIC NEOVASCULARIZATION."
+C0011884,Diabetic Retinopathy,"A chronic, pathological complication associated with diabetes mellitus, where retinal damages are incurred due to microaneurysms in the vasculature of the retina, progressively leading to abnormal blood vessel growth, and swelling and leaking of fluid from blood vessels, resulting in vision loss or blindness."
+C0242383,Age related macular degeneration,"A condition in which parts of the eye cells degenerate, resulting in blurred vision and ultimately blindness"
+C0242383,Age related macular degeneration,"Age-related loss of vision in the central portion of the retina (macula), secondary to retinal degeneration."
+C0730328,Central Serous Chorioretinopathy,A self-resolving eye condition characterized by fluid accumulation under the macula in the retina. It results from leakage of fluid from the choroid. It usually affects one eye only and the vast majority of patients regain full vision.
+C0730328,Central Serous Chorioretinopathy,A visual impairment characterized by the accumulation of fluid under the retina through a defect in the retinal pigment epithelium.
+C0035328,Retinal Vein Occlusion,Blockage of the RETINAL VEIN. Those at high risk for this condition include patients with HYPERTENSION; DIABETES MELLITUS; ATHEROSCLEROSIS; and other CARDIOVASCULAR DISEASES.
+C0035328,Retinal Vein Occlusion,An occlusion of the retinal vein.
+C0154832,Exudative retinopathy,"A group of rare, idiopathic, congenital retinal vascular anomalies affecting the retinal capillaries. It is characterized by dilation and tortuosity of retinal vessels and formation of multiple aneurysms, with different degrees of leakage and exudates emanating from the blood vessels."
+C0042170,Uveomeningoencephalitic Syndrome,"A syndrome characterized by bilateral granulomatous UVEITIS with IRITIS and secondary GLAUCOMA, premature ALOPECIA, symmetrical VITILIGO, poliosis circumscripta (a strand of depigmented hair), HEARING DISORDERS, and meningeal signs (neck stiffness and headache). Examination of the cerebrospinal fluid reveals a pattern consistent with MENINGITIS, ASEPTIC. (Adams et al., Principles of Neurology, 6th ed, p748; Surv Ophthalmol 1995 Jan;39(4):265-292)"
+C0042170,Uveomeningoencephalitic Syndrome,"A systemic inflammatory process affecting the inner ear, eyes, skin, and meninges. It is manifested with hearing disorders, panuveitis, alopecia, poliosis, vitiligo, neck stiffness, headaches, and focal neurologic signs."
+C0333101,Microaneurysm,Aneurysm of the MICROVASCULATURE. Charcot-Bouchard aneurysms are aneurysms of the brain vasculature which is a common cause of CEREBRAL HEMORRHAGE. Retinal microaneurysm is an early diagnostic sign of DIABETIC RETINOPATHY.
+C0333101,Microaneurysm,"An aneurysm that is located within the system of small blood vessels, including capillaries, venules, and arterioles, that perfuse the body's tissues."
+C0027686,Pathologic Neovascularization,A pathologic process consisting of the proliferation of blood vessels in abnormal tissues or in abnormal positions.
+C0027686,Pathologic Neovascularization,"The formation of new or recent blood vessels. The vasculature network is critical to the development of neoplasms. As the tumor burden grows, vascular endothelial cells are recruited to form new blood vessels as an increased demand for blood and nourishment is required."
+C0019080,Hemorrhage,Bleeding or escape of blood from a vessel.
+C0019080,Hemorrhage,The flow of blood from a ruptured blood vessel.
+C0042909,Vitreous Hemorrhage,"Blood extravasation in the vitreous humor. Causes include neovascularization, retinal tear, retinal detachment, and rupture of a blood vessel aneurysm in the eye."
+C0042909,Vitreous Hemorrhage,Hemorrhage into the VITREOUS BODY.
+C0035317,Retinal Hemorrhage,Blood extravasation in the retina.
+C0035317,Retinal Hemorrhage,Bleeding from the vessels of the retina.
+C0487602,Staining method,"Any of the various methods that use a dye, reagent, or other material for producing coloration in tissues or microorganisms for microscopic examination."
+C0487602,Staining method,"The use of a dye, reagent, or other material for producing coloration or contrast in biological materials for examination or observation."
+C0700124,Dilated,The condition of being dilated or stretched.
+C0010038,Corneal Opacity,Disorder occurring in the central or peripheral area of the cornea. The usual degree of transparency becomes relatively opaque.
+C0010038,Corneal Opacity,Opacity within the cornea.
+C0016315,Fluorescence,"Fluorescence is a luminescence (i.e., optical phenomenon) in cold bodies, in which a molecule absorbs a high-energy photon, and re-emits it as a lower-energy (longer-wavelength) photon. The energy difference between the absorbed and emitted photons ends up as molecular vibrations (heat)."
+C0016315,Fluorescence,"The property of emitting radiation while being irradiated. The radiation emitted is usually of longer wavelength than that incident or absorbed, e.g., a substance can be irradiated with invisible radiation and emit visible light. X-ray fluorescence is used in diagnosis."
+C0229090,Left eye structure,The eye positioned in the left orbit.
+C0229089,Right eye,The eye positioned in the right orbit.
+C4281748,Leakage,The unintentional discharge of a substance from a container or enclosed space.
+C1279941,Late stage,Cancer that has spread too extensively beyond its original site of growth to allow complete surgical removal.
+C0035320,Retinal Neovascularization,Formation of new blood vessels originating from the retinal veins and extending along the inner (vitreal) surface of the retina.
+C0024874,Massachusetts (geographic location),A state in the northeast United States. Its capital is Boston.
+C0024874,Massachusetts (geographic location),"State bounded on the north by New Hampshire and Vermont, on the east by the Atlantic Ocean, on the south by Connecticut and Rhode Island, and on the west by New York."
+C0205146,Area,The extent of a 2-dimensional surface enclosed within a boundary.
+C0015392,Eye,The organ of sight or vision.
+C0015392,Eye,The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light.
+C0205161,Abnormal,"Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+C1306673,Stage,Any distinct time period in a sequence of events.
+C0332574,macular,An opaque spot on the cornea (a part of the eye)
+C0060520,fluorescein,A phthalic indicator dye that appears yellow-green in normal tear film and bright green in a more alkaline medium such as the aqueous humor.
+C0060520,fluorescein,"An organic compound that has wide use as a synthetic coloring agent. It is prepared by heating phthalic anhydride and resorcinol over a zinc catalyst, and it crystallizes as a deep red powder. This agent emits an intense green fluorescence in the presence of alkaline solutions and therefore is used as a label when conjugated to antibodies or as a contrast agent for ophthalmic angiography."
+C0205413,Patchy (qualifier value),"Irregular or uneven in quality, texture, or distribution."
+C0002978,angiogram,An imaging technique used to visualize the interior of blood vessels.
+C0002978,angiogram,Radiography of blood vessels after injection of a contrast medium.
+C0221198,Lesion,"A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+C0233660,Mental blocking,"Difficulty in recollection, or interruption of a train of thought or speech, due to emotional factors."
+C0154841,Central retinal vein occlusion,Blockage of the central retinal vein.
+C0205330,Punctate,Having tiny spots or depressions.
+C2986582,Stained Appearance,Marked or discolored by foreign material.
+C0344232,Blurred vision,finding
+C0344232,Blurred vision,Blurred vision is the loss of visual acuity (sharpness of vision) resulting in a loss of ability to see small details. (from MedlinePlus Medical Encyclopedia)
+C0042449,Veins,A blood vessel that carries blood toward the heart.
+C0042449,Veins,The vessels carrying blood away from the CAPILLARY BEDS.
+C0005847,Blood Vessel,"Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+C0005847,Blood Vessel,"A tubular structure through which the blood circulates in the body. Blood vessels constitute a network composed of arteries, arterioles, capillaries, venules, and veins."
+C0205271,Irregular,Lacking perfect symmetry or evenness.
+CC0205219,Diffuse,Widely spread; not localized or confined.
+C0006901,Blood capillaries,The minute vessels that connect arterioles and venules.
+C0006901,Blood capillaries,Tiny blood vessels that connect the arterioles with the venules.
+C0035330,Structure of blood vessel of retina,The blood vessels which supply and drain the RETINA.
+C4727091,Obscure,Make less clear or visible.
+C0205168,Thin (qualifier value),"Narrow in width, extent or cross-section."
+C0016622,Structure of fovea centralis,"An area approximately 1.5 millimeters in diameter within the macula lutea where the retina thins out greatly because of the oblique shifting of all layers except the pigment epithelium layer. It includes the sloping walls of the fovea (clivus) and contains a few rods in its periphery. In its center (foveola) are the cones most adapted to yield high visual acuity, each cone being connected to only one ganglion cell. (Cline et al., Dictionary of Visual Science, 4th ed)"
+C0016622,Structure of fovea centralis,Area consisting of a small depression in the retina containing only cones and where vision is most acute.
+C0035301,Structure of central retinal artery,An artery arising from the ophthalmic artery that supplies the retina.
+C0035301,Structure of central retinal artery,"Central retinal artery and its branches. It arises from the ophthalmic artery, pierces the optic nerve and runs through its center, enters the eye through the porus opticus and branches to supply the retina."
+C1720485,Corneal epithelial dots,"Very small, round vesicles containing fluid and cellular debris observed on the surface of the cornea under slit-lamp examination in some types of corneal dystrophy and in wearers of extended-wear lenses."
+C0003842,Arteries,The vessels carrying blood away from the heart.
+C0003842,Arteries,A blood vessel that carries blood away from the heart.
+C0035305,Retinal Detachment,"Separation of the inner layers of the retina (neural retina) from the pigment epithelium. Retinal detachment occurs more commonly in men than in women, in eyes with degenerative myopia, in aging and in aphakia. It may occur after an uncomplicated cataract extraction, but it is seen more often if vitreous humor has been lost during surgery. (Dorland, 27th ed; Newell, Ophthalmology: Principles and Concepts, 7th ed, p310-12)."
+C0035305,Retinal Detachment,"An eye emergency condition which may lead to blindness if left untreated. It is characterized by the separation of the inner retina layers from the underlying pigment epithelium. Causes include trauma, advanced diabetes mellitus, high myopia, and choroid tumors. Symptoms include sudden appearance of floaters, sudden light flushes, and blurred vision."
+C0004606,Nonproliferative diabetic retinopathy,"An early stage of diabetic retinopathy that is characterized by retinal hemorrhage and exudate, but without proliferation of the blood vessels."
+C0010031,Cornea,"The transparent anterior portion of the fibrous coat of the eye consisting of five layers: stratified squamous CORNEAL EPITHELIUM; BOWMAN MEMBRANE; CORNEAL STROMA; DESCEMET MEMBRANE; and mesenchymal CORNEAL ENDOTHELIUM. It serves as the first refracting medium of the eye. It is structurally continuous with the SCLERA, avascular, receiving its nourishment by permeation through spaces between the lamellae, and is innervated by the ophthalmic division of the TRIGEMINAL NERVE via the ciliary nerves and those of the surrounding conjunctiva which together form plexuses. (Cline et al., Dictionary of Visual Science, 4th ed)"
+C0010031,Cornea,"A dome-shaped, transparent, avascular tissue covering the front of the eye. It is composed of five layers: squamous epithelium, Bowman's membrane, stroma, Descemet's membrane, and endothelium. Refraction of light contributing to eye's focusing ability is its characteristic function. It contains unmyelinated nerve endings which are responsible for the high sensitivity of the tissue."
+C1320640,Peripheral retinal degeneration,Degeneration of the peripheral retina.
+C0029134,Optic Neuritis,"Inflammation of the optic nerve. Commonly associated conditions include autoimmune disorders such as MULTIPLE SCLEROSIS, infections, and granulomatous diseases. Clinical features include retro-orbital pain that is aggravated by eye movement, loss of color vision, and contrast sensitivity that may progress to severe visual loss, an afferent pupillary defect (Marcus-Gunn pupil), and in some instances optic disc hyperemia and swelling. Inflammation may occur in the portion of the nerve within the globe (neuropapillitis or anterior optic neuritis) or the portion behind the globe (retrobulbar neuritis or posterior optic neuritis)."
+C0029134,Optic Neuritis,"A disorder characterized by inflammation of the optic nerve. Causes include autoimmune disorders, infections, toxins, drugs, and multiple sclerosis. It may manifest with acute loss of vision and pain."
+C0042905,Vitreous body structure,"The transparent, semigelatinous substance that fills the cavity behind the CRYSTALLINE LENS of the EYE and in front of the RETINA. It is contained in a thin hyaloid membrane and forms about four fifths of the optic globe."
+C0042905,Vitreous body structure,"A clear, avascular, gelatinous body that occupies the posterior chamber of the eye. It is bounded by the retina except anteriorly where it lies adjacent to the lens and iris."
+C0007688,Central Retinal Artery Occlusion,Blockage of the central retinal artery.
+C0027740,Nerve,Part of the peripheral nervous system composed of bundles of nerve fibers running to various organs and tissues of the body using chemical and electrical signals to transmit sensory and motor information from one body part to another.
+C0034121,Pupil,The aperture in the iris through which light passes.
+C0034121,Pupil,"The round, central aperture of the eye, surrounded by the iris, through which light enters."
+C0042345,Varicosity,Enlarged and tortuous VEINS.
+C0042345,Varicosity,"A vascular abnormality characterized by the presence of enlarged and tortuous veins, particularly in the legs."
+C0016823,Structure of fundus of eye,internal part of the eyeball
+C0016823,Structure of fundus of eye,"The interior surface of the eye opposite the lens including the retina, optic disc, macula, fovea, and posterior pole."
+C0016823,Structure of fundus of eye,"The concave interior of the eye, consisting of the retina, the choroid, the sclera, the optic disk, and blood vessels, seen by means of the ophthalmoscope. (Cline et al., Dictionary of Visual Science, 4th ed)"
+C0342245,Disorder of eye due to diabetes mellitus,"A group of disorders affecting the eye in patients with diabetes mellitus. It includes cataract, glaucoma, retinopathy, and blindness."
+C0022077,Iris (Eye),"The colored disc of the eye composed of connective tissue, epithelium, and endothelium. It separates the anterior chamber from the posterior chamber."
+C0022077,Iris (Eye),"The most anterior portion of the uveal layer, separating the anterior chamber from the posterior. It consists of two layers - the stroma and the pigmented epithelium. Color of the iris depends on the amount of melanin in the stroma on reflection from the pigmented epithelium."
+C0521707,Bilateral cataracts (disorder),"Partial or complete opacity of the crystalline lens of both eyes that decreases visual acuity and eventually results in blindness. Some cataracts appear in infancy or in childhood, but most develop in older individuals. (Sternberg Diagnostic Surgical Pathology, 3rd ed.)"
+C0029130,Optic Nerve,nerve that delivers visual information to the brain
+C0029130,Optic Nerve,The second cranial nerve.
+C0029130,Optic Nerve,"The 2nd cranial nerve which conveys visual information from the RETINA to the brain. The nerve carries the axons of the RETINAL GANGLION CELLS which sort at the OPTIC CHIASM and continue via the OPTIC TRACTS to the brain. The largest projection is to the lateral geniculate nuclei; other targets include the SUPERIOR COLLICULI and the SUPRACHIASMATIC NUCLEI. Though known as the second cranial nerve, it is considered part of the CENTRAL NERVOUS SYSTEM."
+C0271051,Macular retinal edema,"Accumulation of intraretinal fluid and protein in the macula, which may result in swelling and decreased central vision."
+C0271051,Macular retinal edema,"Fluid accumulation in the outer layer of the MACULA LUTEA that results from intraocular or systemic insults. It may develop in a diffuse pattern where the macula appears thickened or it may acquire the characteristic petaloid appearance referred to as cystoid macular edema. Although macular edema may be associated with various underlying conditions, it is most commonly seen following intraocular surgery, venous occlusive disease, DIABETIC RETINOPATHY, and posterior segment inflammatory disease. (From Survey of Ophthalmology 2004; 49(5) 470-90)"
+C0024440,"Macular Edema, Cystoid",Fluid accumulation in the outer layer of the MACULA LUTEA at the center of the RETINA in a petaloid pattern where cystic spaces are formed and may lead to macular depressions or holes.
+C0024440,"Macular Edema, Cystoid","An accumulation of fluid in the outer plexiform layer, secondary to an increase in permeability of perifoveal retinal capillaries."
+C0024441,Macular Holes,A hole in the macula of the retina.
+C0029124,Optic Atrophy,"Atrophy of the optic disk which may be congenital or acquired. This condition indicates a deficiency in the number of nerve fibers which arise in the RETINA and converge to form the OPTIC DISK; OPTIC NERVE; OPTIC CHIASM; and optic tracts. GLAUCOMA; ISCHEMIA; inflammation, a chronic elevation of intracranial pressure, toxins, optic nerve compression, and inherited conditions (see OPTIC ATROPHIES, HEREDITARY) are relatively common causes of this condition."
+C0029124,Optic Atrophy,"A disorder characterized by loss of optic nerve fibers. It may be inherited or acquired. Acquired causes include ischemia, optic nerve neuropathy, glaucoma, trauma, radiation, brain tumors, and multiple sclerosis. It leads to vision disturbances."
+C0035334,Retinitis Pigmentosa,"A rare inherited retinal dystrophy disorder characterized by spots of black bone-spicule pigmentation of the retinal pigment epithelium. It is manifested with decreased vision in low light or in the night, followed by decreased peripheral vision, and, eventual decreased central vision. It may lead to blindness."
+C0035334,Retinitis Pigmentosa,"Hereditary, progressive degeneration of the retina due to death of ROD PHOTORECEPTORS initially and subsequent death of CONE PHOTORECEPTORS. It is characterized by deposition of pigment in the retina."
+C0152132,Hypertensive Retinopathy,Retinopathy due to hypertension.
+C0152132,Hypertensive Retinopathy,Degenerative changes to the RETINA due to HYPERTENSION.
+C0023317,"Lens, Crystalline","A transparent, biconvex structure of the EYE, enclosed in a capsule and situated behind the IRIS and in front of the vitreous humor (VITREOUS BODY). It is slightly overlapped at its margin by the ciliary processes. Adaptation by the CILIARY BODY is crucial for OCULAR ACCOMMODATION."
+C0023317,"Lens, Crystalline","A biconvex transparent structure of the eye through which light is focused on the retina. The lens sits behind the iris and is supported by the zonule, which connects it to the ciliary body. The lens is an avascular structure."
+C0948441,Venoocclusive disease,Partial or total occlusion of a vein. (ACC)
+C0948441,Venoocclusive disease,Disorder in which veins are partially or completely obstructed or the blood flow through the veins is suboptimal.--2004
+C0008521,Choroid Diseases,"A non-neoplastic or neoplastic disorder that affects the choroid. Representative examples include choroiditis, hemangioma, and melanoma."
+C0008521,Choroid Diseases,"Disorders of the choroid including hereditary choroidal diseases, neoplasms, and other abnormalities of the vascular layer of the uvea."
+C0018801,Heart failure,"A heterogeneous condition in which the heart is unable to pump out sufficient blood to meet the metabolic need of the body. Heart failure can be caused by structural defects, functional abnormalities (VENTRICULAR DYSFUNCTION), or a sudden overload beyond its capacity. Chronic heart failure is more common than acute heart failure which results from sudden insult to cardiac function, such as MYOCARDIAL INFARCTION."
+C0018801,Heart failure,"Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. Clinical symptoms of heart failure include: unusual dyspnea on light exertion, recurrent dyspnea occurring in the supine position, fluid retention or rales, jugular venous distension, pulmonary edema on physical exam, or pulmonary edema on chest x-ray presumed to be cardiac dysfunction."
+C0039485,Temporal Lobe,the lower lateral lobe of either cerebral hemisphere
+C0039485,Temporal Lobe,"Lower lateral part of the cerebral hemisphere responsible for auditory, olfactory, and semantic processing. It is located inferior to the lateral fissure and anterior to the OCCIPITAL LOBE."
+C0039485,Temporal Lobe,One of the cerebral lobes. It is located inferior to the frontal and parietal lobes and anterior to the occipital lobe.
+C0015426,Eyelid structure,A thin membrane of skin with the purpose of covering and protecting an eye.
+C0015426,Eyelid structure,Each of the upper and lower folds of SKIN which cover the EYE when closed.
+C0018939,Hematological Disease,"A non-neoplastic or neoplastic disorder that arises from the hematopoietic and lymphoid cells. Representative examples include disorders that affect the synthesis of hemoglobin, coagulation disorders, leukemias, and lymphomas."
+C0018939,Hematological Disease,Disorders of the blood and blood forming tissues.
+C0028866,Oculomotor Nerve Paralysis,Paralysis of the oculomotor nerve.
+C0028866,Oculomotor Nerve Paralysis,"Diseases of the oculomotor nerve or nucleus that result in weakness or paralysis of the superior rectus, inferior rectus, medial rectus, inferior oblique, or levator palpebrae muscles, or impaired parasympathetic innervation to the pupil. With a complete oculomotor palsy, the eyelid will be paralyzed, the eye will be in an abducted and inferior position, and the pupil will be markedly dilated. Commonly associated conditions include neoplasms, CRANIOCEREBRAL TRAUMA, ischemia (especially in association with DIABETES MELLITUS), and aneurysmal compression. (From Adams et al., Principles of Neurology, 6th ed, p270)"
+C0027765,nervous system disorder,"Diseases of the central and peripheral nervous system. This includes disorders of the brain, spinal cord, cranial nerves, peripheral nerves, nerve roots, autonomic nervous system, neuromuscular junction, and muscle."
+C0027765,nervous system disorder,"A non-neoplastic or neoplastic disorder that affects the brain, spinal cord, or peripheral nerves."
+C1116449,Central Vein,The veins within the hepatic lobes that drain blood from the liver sinusoids into the hepatic vein.
+C0857112,Bilateral glaucoma,Increased pressure in both eyeballs due to obstruction of the outflow of aqueous humor.
+C0934502,anatomical layer,A relatively thin sheetlike expanse or region lying over or under another.
+C0023316,Lens Subluxation,A partial dislocation of the lens of the eye.
+C0023316,Lens Subluxation,"Incomplete rupture of the zonule with the displaced lens remaining behind the pupil. In dislocation, or complete rupture, the lens is displaced forward into the anterior chamber or backward into the vitreous body. When congenital, this condition is known as ECTOPIA LENTIS."
+C0229226,Structure of posterior pole of lens,The center of the dorsal portion of the ocular lens.
+C0003483,Aorta,"The major arterial trunk that carries oxygenated blood from the left ventricle into the ascending aorta behind the heart, the aortic arch, through the thorax as the descending aorta and through the abdomen as the abdominal aorta; it bifurcates into the left and right common iliac arteries."
+C0003483,Aorta,The main trunk of the systemic arteries.
+C0006123,Branch Retinal Artery Occlusion,An occlusion of a branch of the retinal artery.
+C1519082,Pigment Epithelium,"Tissue consisting of one or more layers of epithelial cells and a basement membrane. The cells contain granules of pigment or melanin, as in the retinal or iris pigment layer."
+C0035302,Retinal Artery Occlusion,"Sudden ISCHEMIA in the RETINA due to blocked blood flow through the CENTRAL RETINAL ARTERY or its branches leading to sudden complete or partial loss of vision, respectively, in the eye."
+C0035302,Retinal Artery Occlusion,An occlusion of the retinal artery.
+C0042520,Structure of venule,"The part of the microvasculature that receives blood from the capillaries, and which then converges to form veins."
+C0042520,Structure of venule,The minute vessels that collect blood from the capillary plexuses and join together to form veins.
+C2880887,Bilateral hypertension with disorder of retinas,Evidence of hypertensive retinopathy that is bilateral.
+C1517082,Eye Segment,One of two portions (anterior or posterior) of the eye.
+C0085282,Meridians,"Classical loci in ACUPUNCTURE. They are main and collateral channels, regarded as a network of passages, through which vital energy (Qi) circulates and along which acupoints (ACUPUNCTURE POINTS) are distributed. The meridians are a series of 14 lines upon which more than 400 acupoints are located on the body. (The Pinyin Chinese-English Dictionary, p. 359; Dr. Wu Lancheng, Academy of Traditional Chinese Medicine, Beijing)"
+C0085282,Meridians,"A concept in Chinese medicine that holds that the pathways through which qi (""life force"") flows are located throughout the body bilaterally, and exist beneath the surface of the skin."
+C0271093,Stargardt's disease,"A juvenile-onset macular dystrophy characterized by progressive loss of VISUAL ACUITY with normal acuity in peripheral VISUAL FIELDS. Other associated clinical features may include LIPOFUSCIN fundus autofluorescence, atrophy of the RETINAL PIGMENT EPITHELIUM, loss of color vision, PHOTOPHOBIA and PARACENTRAL SCOTOMA. Germline mutations in the ABCA4 gene have been identified in recessive and dominant diseases."
+C0017605,Angle Closure Glaucoma,"The sudden increase of intraocular pressure, resulting in pain and an abrupt decrease in visual acuity."
+C0017605,Angle Closure Glaucoma,A form of glaucoma in which the intraocular pressure increases because the angle of the anterior chamber is blocked and the aqueous humor cannot drain from the anterior chamber.
+C0152208,Hypotropia,Vertical strabismus in which there is permanent downward deviation of the visual axis of one eye.
+C0238309,Ischemic peripheral neuropathy,Neuropathy that is caused by inadequate blood supply.
+C0500464,Regional segment of venous tree,A segment of a blood vessel that is part of the venous system.
+C0017612,"Glaucoma, Open-Angle",Glaucoma in which the angle of the anterior chamber is open and the trabecular meshwork does not encroach on the base of the iris.
+C0017612,"Glaucoma, Open-Angle",Chronic outflow obstruction of the eye's drainage canals that can lead to increased internal eye pressure and optic nerve damage.
+C0003847,Structure of arteriole,"A small, terminal branch in the arterial system. Arterioles often connect to capillaries."
+C0003847,Structure of arteriole,The smallest divisions of the arteries located between the muscular arteries and the capillaries.
+C1516384,Central Artery,A branch off of the terminal section of the middle cerebral artery running through the cortex on both sides of the central sulcus.
+C0042373,Vascular Diseases,"A non-neoplastic or neoplastic disorder affecting the arteries, veins, or lymphatic vessels. Examples include vasculitis, thrombophlebitis, arteriosclerosis, lymphedema, hemangioma, and angiosarcoma."
+C0042373,Vascular Diseases,Pathological processes involving any of the BLOOD VESSELS in the cardiac or peripheral circulation. They include diseases of ARTERIES; VEINS; and rest of the vasculature system in the body.
+C0036410,Sclera,"The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the canal of Schlemm. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+C0036410,Sclera,"The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the CANAL OF SCHLEMM. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+C0042160,Uvea,"The pigmented layer of the eyeball between the tough, white outer coat of the eye and the retina."
+C0042160,Uvea,"The pigmented vascular coat of the eyeball, consisting of the CHOROID; CILIARY BODY; and IRIS, which are continuous with each other. (Cline et al., Dictionary of Visual Science, 4th ed)"
+C0003151,Anterior chamber of eye structure,"The space in the eye, filled with aqueous humor, bounded anteriorly by the cornea and a small portion of the sclera and posteriorly by a small portion of the ciliary body, the iris, and that part of the crystalline lens which presents through the pupil. (Cline et al., Dictionary of Visual Science, 4th ed, p109)"
+C0003151,Anterior chamber of eye structure,"The space in the eye, filled with aqueous humor, bounded anteriorly by the cornea and a small portion of the sclera and posteriorly by a small portion of the ciliary body, the iris, and that part of the crystalline lens which presents through the pupil. (Cline et al., Dictionary of Visual Science, 4th ed, p109)"
+C1708516,Inner Canthus,The medial corner of the eye where the upper and lower eyelids join.
+C0600518,Choroidal Neovascularization,A pathological process consisting of the formation of new blood vessels in the CHOROID.
+C1504336,Polypoidal Choroidal Vasculopathy,A CHOROID neovascularization characterized by serosanguineous retinal pigment epithelial detachment and leakage of serous exudate sometimes associated with aneurysmal polypoidal lesions.
+C0339543,Epiretinal Membrane,"A membrane on the vitreal surface of the retina resulting from the proliferation of one or more of three retinal elements: (1) fibrous astrocytes; (2) fibrocytes; and (3) RETINAL PIGMENT EPITHELIUM. Localized epiretinal membranes may occur at the posterior pole of the eye without clinical signs or may cause marked loss of vision as a result of covering, distorting, or detaching the FOVEA CENTRALIS. Epiretinal membranes may cause vascular leakage and secondary retinal edema. In younger individuals some membranes appear to be developmental in origin and occur in otherwise normal eyes. The majority occur in association with RETINAL HOLES, ocular concussions, retinal inflammation, or after ocular surgery. (Newell, Ophthalmology: Principles and Concepts, 7th ed, p291)"
+C0339543,Epiretinal Membrane,"Wrinkling or bulging of contracted scar tissue that has formed on retinal surface secondary to retinal injury, inflammation, blood vessel occlusion, or vitreous detachment."
+C0154830,Proliferative diabetic retinopathy,"Advanced retinopathy due to diabetes mellitus characterized by the formation of new vessels in the retina. The new vessels are abnormal and fragile. If hemorrhage occurs due to the vascular fragility, there is increased risk of vision loss or blindness."
+C0154830,Proliferative diabetic retinopathy,the eye problem in the people with diabetes mellitus that causes loss of vision
+C0017601,Glaucoma,Increased pressure in the eyeball due to obstruction of the outflow of aqueous humor.
+C0017601,Glaucoma,"An ocular disease, occurring in many forms, having as its primary characteristics an unstable or a sustained increase in the intraocular pressure which the eye cannot withstand without damage to its structure or impairment of its function. The consequences of the increased pressure may be manifested in a variety of symptoms, depending upon type and severity, such as excavation of the optic disk, hardness of the eyeball, corneal anesthesia, reduced visual acuity, seeing of colored halos around lights, disturbed dark adaptation, visual field defects, and headaches. (Dictionary of Visual Science, 4th ed)"
+C0042164,Uveitis,"Inflammation of part or all of the uvea, the middle (vascular) tunic of the eye, and commonly involving the other tunics (sclera and cornea, and the retina). (Dorland, 27th ed)"
+C0042164,Uveitis,"An inflammatory process affecting a part of or the entire uvea. Causes include inflammatory agents (e.g., herpes simplex, herpes zoster, leptospirosis) and systemic diseases (e.g., inflammatory bowel disease, multiple sclerosis, systemic lupus erythematosus, ankylosing spondylitis). Patients present with pain and redness in the eye, light sensitivity, and blurred and decreased vision."
+C0042164,Uveitis,an inflammation of the uvea (middle part of the eye)
+C0022568,Keratitis,Inflammation of the cornea.
+C0022568,Keratitis,inflammation of the cornea
+C0010043,Corneal Ulcer,Area of epithelial tissue loss from corneal surface; associated with inflammatory cells in the cornea and anterior chamber.
+C0010043,Corneal Ulcer,"Loss of epithelial tissue from the surface of the cornea due to progressive erosion and necrosis of the tissue; usually caused by bacterial, fungal, or viral infection."
+C0013238,Dry Eye Syndromes,"Corneal and conjunctival dryness due to deficient tear production, predominantly in menopausal and post-menopausal women. Filamentary keratitis or erosion of the conjunctival and corneal epithelium may be caused by these disorders. Sensation of the presence of a foreign body in the eye and burning of the eyes may occur."
+C0013238,Dry Eye Syndromes,A syndrome characterized by dryness of the cornea and conjunctiva. It is usually caused by a deficiency in tear production. Symptoms include a feeling of burning eyes and a possible foreign body presence in the eye.
+C3887709,Optic Neuropathy,Disorder of the optic nerve.
+C0030353,Papilledema,"Swelling of the OPTIC DISK, usually in association with increased intracranial pressure, characterized by hyperemia, blurring of the disk margins, microhemorrhages, blind spot enlargement, and engorgement of retinal veins. Chronic papilledema may cause OPTIC ATROPHY and visual loss. (Miller et al., Clinical Neuro-Ophthalmology, 4th ed, p175)"
+C0030353,Papilledema,"Swelling around the optic disc, usually due to increased intracranial pressure or pressure on the optic nerve by a tumor."
